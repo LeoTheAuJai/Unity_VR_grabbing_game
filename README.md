@@ -96,9 +96,10 @@ Created by **LeoTheAuJai**. Feel free to reach out via GitHub.
 
 ```markdown
 # 🥽 Unity VR 抓取遊戲 (for Meta Quest 3)
+```
 
-[![Unity 版本](https://img.shields.io/badge/Unity-2022.3+-blueviolet?style=for-the-badge&logo=unity)](https://unity.com/)
-[![平台](https://img.shields.io/badge/平台-Meta%20Quest%203-4267B2?style=for-the-badge&logo=meta)](https://www.meta.com/quest/)
+[![Unity Version](https://img.shields.io/badge/Unity-2022.3+-blueviolet?style=for-the-badge&logo=unity)](https://unity.com/)
+[![Platform](https://img.shields.io/badge/Platform-Meta%20Quest%203-4267B2?style=for-the-badge&logo=meta)](https://www.meta.com/quest/)
 
 這是一款使用 **Unity** 開發，專為 **Meta Quest 3** 設計的 **VR 抓取遊戲**。其核心機制圍繞著直觀的手部互動與物件抓取，並提供兩種截然不同且富有創意的遊戲階段。
 
