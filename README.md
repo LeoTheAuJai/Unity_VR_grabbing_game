@@ -3,7 +3,7 @@
 
 ```markdown
 # 🥽 Unity VR Grabbing Game (for Meta Quest 3)
-
+```
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3+-blueviolet?style=for-the-badge&logo=unity)](https://unity.com/)
 [![Platform](https://img.shields.io/badge/Platform-Meta%20Quest%203-4267B2?style=for-the-badge&logo=meta)](https://www.meta.com/quest/)
 
